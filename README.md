@@ -2,7 +2,7 @@
 
 🎓 I’m a 3rd year computer science student at Bar-Ilan University
 📧 How to reach me: RanWurembrand@gmail.com 
-🌐 For more information about me and my skills: [your-portfolio-link]  
+🌐 For more information about me and my skills: [https://ran-wurmbrand.vercel.app/]  
 
 😊 **Let's connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](**www.linkedin.com/in/ran-wurmbrand-a4a039209**)  
