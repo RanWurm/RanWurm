@@ -8,8 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](**www.linkedin.com/in/ran-wurmbrand-a4a039209**)  
 
 ### 📌 Pinned Repositories
-#### [CNN-Self-Organizing-Map-SOM](https://github.com/RanWurm/CNN-Self-Organizing-Map-SOM)
-This project implements a Self-Organizing Map (SOM), a type of artificial neural network used for reducing dimensions and visualizing high-dimensional data. The project uses SOM to classify and visualize the MNIST dataset of handwritten digits. It demonstrates how SOM can be used to identify similar digits and organize them into a two-dimensional grid based on their features.
+#### [Warrantify](https://github.com/RanWurm/Warrantify)
+This project focuses on developing an innovative app designed to manage electric product warranties, allowing users to easily store and track warranties, find nearby service centers, and receive AI-based recommendations. Built with React Native and Nodejs python and Aws, the app combines user-friendly functionality with advanced AI to offer tailored suggestions, enhancing the user experience and improving warranty management. The app is designed to help users stay organized and access essential services for their electric products.
 
 #### [Multi-Threaded-News-App](https://github.com/RanWurm/Multi-Threaded-News-App)
 This project implements a robust system simulation, designed to showcase key operating system concepts such as process scheduling, multithreading, synchronization, and inter-process communication (IPC). The system is built in C and leverages advanced concurrency mechanisms to manage resources efficiently while executing multiple tasks in parallel.
