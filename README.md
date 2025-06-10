@@ -1,6 +1,6 @@
 # Hi there, I'm Ran 👋
 
-🎓 I’m a 3rd year computer science student at Bar-Ilan University
+🎓 I’m a Software Engieer intern at red hat and a 3rd year computer science student at Bar-Ilan University
 📧 How to reach me: RanWurembrand@gmail.com 
 🌐 For more information about me and my skills: https://ran-wurmbrand.vercel.app/
 
