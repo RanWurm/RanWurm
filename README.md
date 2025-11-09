@@ -1,8 +1,16 @@
 # Hi there, I'm Ran 👋
 
-🎓 I’m a Software Engieer intern at red hat and a 3rd year computer science student at Bar-Ilan University
-📧 How to reach me: RanWurembrand@gmail.com 
-🌐 For more information about me and my skills: https://ran-wurmbrand.vercel.app/
+🎓 I’m a Software Engineer intern at Red Hat and a 3rd year computer science student at Bar-Ilan University  
+📧 How to reach me: **RanWurembrand@gmail.com**  
+🌐 For more about me and my skills: [ran-wurmbrand.vercel.app](https://ran-wurmbrand.vercel.app)
+
+---
+
+### 🧑‍💻 **My Professional GitHub (Red Hat)**
+🔴 This is my **official Red Hat GitHub account**, where I work on internal and open-source projects.  
+[![View Red Hat GitHub](https://img.shields.io/badge/View%20My%20Red%20Hat%20GitHub-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/RanWurmbrand)
+
+---
 
 😊 **Let's connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](**www.linkedin.com/in/ran-wurmbrand-a4a039209**)  
