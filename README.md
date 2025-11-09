@@ -7,7 +7,7 @@
 ---
 
 ### 🧑‍💻 **My Professional GitHub (Red Hat)**
-🔴 This is my **official Red Hat GitHub account**, where I work on internal and open-source projects.  
+🔴 This is my **official Red Hat GitHub account**, where I work on internal and on the open-source project- KAI- Konveyor-AI.  
 [![View Red Hat GitHub](https://img.shields.io/badge/View%20My%20Red%20Hat%20GitHub-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/RanWurmbrand)
 
 ---
