@@ -13,7 +13,7 @@
 ---
 
 😊 **Let's connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](**www.linkedin.com/in/ranwurmbrand/*)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ranwurmbrand/)
 
 ### 📌 Pinned Repositories
 #### [MoneyBot-Automated-Bots-NetWork](https://github.com/RanWurm/MoneyBot-protected-)
