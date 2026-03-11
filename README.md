@@ -7,7 +7,7 @@
 ---
 
 ### 🧑‍💻 **My Professional GitHub (Red Hat)**
-🔴 This is my **official Red Hat GitHub account**, where I contribute to **Kai (Konveyor AI)** and **MTA (Migration Toolkit for Applications)** - enterprise-scale AI-driven modernization projects under the **Konveyor** initiative.  
+🔴 This is my official Red Hat GitHub account, where I contribute to crane, kubectl-migrate, and Kai as part of the Konveyor ecosystem for application and Kubernetes migration.  
 [![View Red Hat GitHub](https://img.shields.io/badge/View%20My%20Red%20Hat%20GitHub-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/RanWurmbrand)
 
 ---
