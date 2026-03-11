@@ -7,7 +7,8 @@
 ---
 
 ### 🧑‍💻 **My Professional GitHub (Red Hat)**
-🔴 This is my official Red Hat GitHub account, where I contribute to two projects under the Konveyor initiative: kubectl-migrate, a tool for Kubernetes workload migration, and KAI (Konveyor AI), an AI-driven platform for application modernization. Both are open-source enterprise-scale projects maintained by the Konveyor community[![View Red Hat GitHub](https://img.shields.io/badge/View%20My%20Red%20Hat%20GitHub-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/RanWurmbrand)
+🔴 This is my official Red Hat GitHub account, where I contribute to kubectl-migrate, Crane, and KAI (Konveyor AI) — enterprise-scale open-source projects under the Konveyor initiative, spanning Kubernetes workload migration and AI-driven application modernization.
+[![View Red Hat GitHub](https://img.shields.io/badge/View%20My%20Red%20Hat%20GitHub-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/RanWurmbrand)
 
 ---
 
