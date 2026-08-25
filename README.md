@@ -16,8 +16,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ranwurmbrand/)
 
 ### 📌 Pinned Repositories
-#### [MoneyBot-Automated-Bots-NetWork](https://github.com/RanWurm/MoneyBot-protected-)
-This project is an open-source automated trading bot integrating Telegram, WhatsApp, and web platforms. Entirely developed in Python using asyncio, Selenium, Telethon, and Flask, the bot continuously detects trading signals, automates precise trades, and enforces risk management through loss limits and real-time tracking. Additionally, I collect data on various traders, perform offline statistical analysis, and leverage these insights to determine an optimal strategy for each trade
 
 #### [Waze](https://github.com/RanWurm/Waze)
 This project implements a Waze-like real-time navigation system in Go, built around parallelism and distributed-systems design. I developed an entry-point routing approach using virtual nodes, shared backward-search caching, and parallel Delta-Stepping to accelerate inter-city pathfinding across a ~113K-node graph. The system uses worker pools, goroutines, concurrent caches, and parallel traffic aggregation, while supporting city-based partitioning and horizontal scaling for distributed deployment.
+
+#### [MoneyBot-Automated-Bots-NetWork](https://github.com/RanWurm/MoneyBot-protected-)
+This project is an open-source automated trading bot integrating Telegram, WhatsApp, and web platforms. Entirely developed in Python using asyncio, Selenium, Telethon, and Flask, the bot continuously detects trading signals, automates precise trades, and enforces risk management through loss limits and real-time tracking. Additionally, I collect data on various traders, perform offline statistical analysis, and leverage these insights to determine an optimal strategy for each trade
+
